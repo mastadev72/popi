@@ -2,6 +2,8 @@ import './App.css';
 import Title from './Title';
 import Logo from './Logo';
 import PopiList from './PopiList';
+import Footer from './Footer'
+import '@fontsource/roboto/400.css';
 
 function App() {
   return (
@@ -9,6 +11,7 @@ function App() {
       <Logo />
       <Title />
       <PopiList />
+      <Footer />
     </div>
   );
 }

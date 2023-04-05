@@ -1,0 +1,7 @@
+/* src/POPOSList.css */
+
+.PopiList {
+  flex-flow: row wrap;
+  display: flex;
+  justify-content: space-around;
+}

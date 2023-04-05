@@ -38,4 +38,8 @@
 }
 .Popiblock {
   padding: 20px;
+  font-size: 1em;
+}
+.Popiblock > img {
+    width: 100%;
 }
